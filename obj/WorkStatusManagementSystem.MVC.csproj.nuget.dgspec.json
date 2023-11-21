@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akshaya.s\\Projects\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj": {}
+    "C:\\Development\\New folder\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akshaya.s\\Projects\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj": {
+    "C:\\Development\\New folder\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akshaya.s\\Projects\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj",
+        "projectUniqueName": "C:\\Development\\New folder\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj",
         "projectName": "WorkStatusManagementSystem.MVC",
-        "projectPath": "C:\\Users\\akshaya.s\\Projects\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj",
+        "projectPath": "C:\\Development\\New folder\\WorkStatusManagementSystem.MVC\\WorkStatusManagementSystem.MVC.csproj",
         "packagesPath": "C:\\Users\\akshaya.s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akshaya.s\\Projects\\WorkStatusManagementSystem.MVC\\obj\\",
+        "outputPath": "C:\\Development\\New folder\\WorkStatusManagementSystem.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akshaya.s\\AppData\\Roaming\\NuGet\\NuGet.Config"
