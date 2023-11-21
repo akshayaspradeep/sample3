@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WorkStatusManagementSystem.MVC.props" />
+</Project>

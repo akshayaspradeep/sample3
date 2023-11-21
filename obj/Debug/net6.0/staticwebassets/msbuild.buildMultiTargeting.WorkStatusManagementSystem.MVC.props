@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WorkStatusManagementSystem.MVC.props" />
+</Project>
